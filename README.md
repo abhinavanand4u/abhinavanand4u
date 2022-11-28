@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @abhinavanand4u
 - 👀 I’m interested in Programming and Web Development
-- 🌱 I’m currently learning Python Programming Language
+- 🌱 I’m currently learning Python Programming Language and JS
 - 💞️ I’m looking to collaborate on the same
 - 📫 Reach me on LinkedIn @abhinavanand4u
 
